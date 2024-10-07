@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luu</h1>
-<h3 align="center">A passionate in dataScience, frontEnd, andBack end</h3>
+<h3 align="center">A passionate in dataScience, frontEnd, and backEnd</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ovuul&label=Profile%20views&color=0e75b6&style=flat" alt="ovuul" /> </p>
 
